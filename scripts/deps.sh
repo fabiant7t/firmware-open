@@ -53,6 +53,7 @@ then
     parted \
     patch \
     sdcc \
+    systemd-devel \
     zlib-devel
 else
   msg "Please add support for your distribution to:"
